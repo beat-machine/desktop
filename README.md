@@ -1,2 +1,3 @@
 # desktop
-Offline desktop app for The Beat Machine
+
+Desktop version of TBM.
